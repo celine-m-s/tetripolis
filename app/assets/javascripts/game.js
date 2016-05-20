@@ -57,7 +57,7 @@
     },
     init: function() {
       this.bind();
-      this.shape = new this.shapes[1](this.grid);
+      this.shape = new this.shapes[1](this.grid); 
     }
   };
 
