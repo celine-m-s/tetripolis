@@ -13,6 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require grid
-//= require shapes
-//= require game
+//= require 
