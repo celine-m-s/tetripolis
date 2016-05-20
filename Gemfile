@@ -68,3 +68,6 @@ gem 'pry-rails'
 # Social Networks Authentification
 gem 'omniauth-oauth2' #, '~> 1.3.1' # Don't touch that unless you don't want Google omniauth to work!
 gem 'omniauth-facebook'
+
+# Front dependencies with Bower https://github.com/rharriso/bower-rails/
+gem 'bower-rails' #, '~> 0.10.0'
