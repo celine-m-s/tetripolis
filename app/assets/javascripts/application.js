@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require 
+//= require blockrain/src/blockrain.jquery.libs.js
+//= require blockrain/src/blockrain.jquery.src.js
+//= require blockrain/src/blockrain.jquery.themes.js
